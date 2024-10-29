@@ -1,4 +1,4 @@
-# Strategies_in_bulk
+# Strategies
 
 ## Overview
 This repository contains AI-extracted trading strategies sourced from various articles. These strategies are provided as-is, without any review or validation of their trading logic. 
