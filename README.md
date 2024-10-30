@@ -8,7 +8,7 @@ They are merely free of compilation errors and capable of generating trades.
 
 These strategies are part of an AI-assisted pair-coding and development project aimed at creating a coding assistant. The primary goal is to explore the potential of AI in generating and refining trading algorithms.
 
-I not claim that AI will eventually replace experts in the field. Instead, the focus is on leveraging AI to create baseline code during certain stages of the quantitative research process. AI is not a substitute for the complete process, from academic research to production-ready code. For the time being, I do not share publicly production-ready strategies although it may change in future. 
+I not claim that AI will eventually replace experts in the field. Instead, the focus is on leveraging AI to create baseline code during certain stages of the quantitative research process. AI is not a substitute for the complete process, from academic research to production-ready code. For the time being, I do not share publicly production-ready strategies or live tested alpha models although it may change in future. 
 
 ## Disclaimer
 
